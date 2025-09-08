@@ -16,4 +16,5 @@ Cette base de données permet de gérer :
 ## Instructions d’exécution
 1. Cloner ce dépôt :  
    ```bash
+   https://github.com/Mahadi106/projet-final-semaine8/blob/main/gestion_etudiants.sql
   
